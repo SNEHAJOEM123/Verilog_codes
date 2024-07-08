@@ -1,0 +1,305 @@
+Time resolution is 1 ps
+Output is incorrect! Expected: sum=0001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          0, ci=          1
+Output is incorrect! Expected: sum=0001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          1, ci=          0
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          1, ci=          1
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          2, ci=          0
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          2, ci=          1
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          3, ci=          0
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          3, ci=          1
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          4, ci=          0
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          4, ci=          1
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          5, ci=          0
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          5, ci=          1
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          6, ci=          0
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          6, ci=          1
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          7, ci=          0
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          7, ci=          1
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          8, ci=          0
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          8, ci=          1
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          9, ci=          0
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=          9, ci=          1
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         10, ci=          0
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         10, ci=          1
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         11, ci=          0
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         11, ci=          1
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         12, ci=          0
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         12, ci=          1
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         13, ci=          0
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         13, ci=          1
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         14, ci=          0
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         14, ci=          1
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          0, B=         15, ci=          0
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          0, B=         15, ci=          1
+Output is incorrect! Expected: sum=0001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          0, ci=          0
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          0, ci=          1
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          1, ci=          0
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          1, ci=          1
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          2, ci=          0
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          2, ci=          1
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          3, ci=          0
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          3, ci=          1
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          4, ci=          0
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          4, ci=          1
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          5, ci=          0
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          5, ci=          1
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          6, ci=          0
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          6, ci=          1
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          7, ci=          0
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          7, ci=          1
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          8, ci=          0
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          8, ci=          1
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          9, ci=          0
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=          9, ci=          1
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         10, ci=          0
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         10, ci=          1
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         11, ci=          0
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         11, ci=          1
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         12, ci=          0
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         12, ci=          1
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         13, ci=          0
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         13, ci=          1
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          1, B=         14, ci=          0
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          1, B=         14, ci=          1
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          1, B=         15, ci=          0
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          0, ci=          0
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          0, ci=          1
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          1, ci=          0
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          1, ci=          1
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          2, ci=          0
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          2, ci=          1
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          3, ci=          0
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          3, ci=          1
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          4, ci=          0
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          4, ci=          1
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          5, ci=          0
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          5, ci=          1
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          6, ci=          0
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          6, ci=          1
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          7, ci=          0
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          7, ci=          1
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          8, ci=          0
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          8, ci=          1
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          9, ci=          0
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=          9, ci=          1
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=         10, ci=          0
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=         10, ci=          1
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=         11, ci=          0
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=         11, ci=          1
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=         12, ci=          0
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=         12, ci=          1
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          2, B=         13, ci=          0
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          2, B=         13, ci=          1
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          2, B=         14, ci=          0
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          2, B=         15, ci=          1
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          0, ci=          0
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          0, ci=          1
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          1, ci=          0
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          1, ci=          1
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          2, ci=          0
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          2, ci=          1
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          3, ci=          0
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          3, ci=          1
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          4, ci=          0
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          4, ci=          1
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          5, ci=          0
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          5, ci=          1
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          6, ci=          0
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          6, ci=          1
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          7, ci=          0
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          7, ci=          1
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          8, ci=          0
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          8, ci=          1
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          9, ci=          0
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=          9, ci=          1
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=         10, ci=          0
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=         10, ci=          1
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=         11, ci=          0
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=         11, ci=          1
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          3, B=         12, ci=          0
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          3, B=         12, ci=          1
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          3, B=         13, ci=          0
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          3, B=         14, ci=          1
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          3, B=         15, ci=          0
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0001, co=1
+Error: Output check failed for A=          3, B=         15, ci=          1
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          0, ci=          0
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          0, ci=          1
+Output is incorrect! Expected: sum=0101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          1, ci=          0
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          1, ci=          1
+Output is incorrect! Expected: sum=0110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          2, ci=          0
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          2, ci=          1
+Output is incorrect! Expected: sum=0111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          3, ci=          0
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          3, ci=          1
+Output is incorrect! Expected: sum=1000, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          4, ci=          0
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          4, ci=          1
+Output is incorrect! Expected: sum=1001, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          5, ci=          0
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          5, ci=          1
+Output is incorrect! Expected: sum=1010, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          6, ci=          0
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          6, ci=          1
+Output is incorrect! Expected: sum=1011, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          7, ci=          0
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          7, ci=          1
+Output is incorrect! Expected: sum=1100, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          8, ci=          0
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          8, ci=          1
+Output is incorrect! Expected: sum=1101, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          9, ci=          0
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=          9, ci=          1
+Output is incorrect! Expected: sum=1110, co=0, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=         10, ci=          0
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=         10, ci=          1
+Output is incorrect! Expected: sum=1111, co=1, Actual: sum=0000, co=0
+Error: Output check failed for A=          4, B=         11, ci=          0
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          4, B=         11, ci=          1
+Output is incorrect! Expected: sum=0000, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          4, B=         12, ci=          0
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          4, B=         13, ci=          1
+Output is incorrect! Expected: sum=0010, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          4, B=         14, ci=          0
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0001, co=1
+Error: Output check failed for A=          4, B=         14, ci=          1
+Output is incorrect! Expected: sum=0011, co=1, Actual: sum=0001, co=1
+Error: Output check failed for A=          4, B=         15, ci=          0
+Output is incorrect! Expected: sum=0100, co=0, Actual: sum=0001, co=1
+Error: Output check failed for A=          4, B=         15, ci=          1

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sun Feb 18 22:08:05 2024
+# Process ID: 11408
+# Current directory: E:/Codes/verilog-vivado/shift_register/shift_register.runs/synth_1
+# Command line: vivado.exe -log universal_shift_register.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source universal_shift_register.tcl
+# Log file: E:/Codes/verilog-vivado/shift_register/shift_register.runs/synth_1/universal_shift_register.vds
+# Journal file: E:/Codes/verilog-vivado/shift_register/shift_register.runs/synth_1\vivado.jou
+# Running On: DESKTOP-OKU8BN1, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 2, Host memory: 8485 MB
+#-----------------------------------------------------------
+source universal_shift_register.tcl -notrace

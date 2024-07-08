@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Codes/verilog-vivado/test/test.srcs/sources_1/new/mealy_fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Codes/verilog-vivado/test/test.srcs/sim_1/new/mealy_fsm_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_fsm_tb
